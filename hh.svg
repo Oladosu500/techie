@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10.6667in" height="8in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10666.66 8000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="T" horiz-adv-x="610" d="M259 0l0 632 -236 0 0 83.9998 567 0 0 -83.9998 -236 0 0 -632 -94.9998 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str1 {stroke:black;stroke-width:10.41;stroke-miterlimit:2.61313}
+    .str0 {stroke:black;stroke-width:3;stroke-miterlimit:2.61313}
+    .fil2 {fill:#3300CC}
+    .fil1 {fill:#FF6633}
+    .fil0 {fill:#FFCC00}
+    .fnt0 {font-weight:normal;font-size:5476.35px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M4812.5 3211.27l373.89 0 1855.27 4017.9 -686.31 0 -527.2 -1217.72 -1015.65 0 0 -432.09 826.83 0 -475.22 -1113.9c-143.2,-338.56 -251.4,-618.21 -326.71,-838.93 -7.96,33.29 -16.26,66.5 -24.9,99.65l0 -99.16 0 -415.74z"/>
+  <path class="fil1 str1" d="M4796.87 3639.84l0 3500.79c-1259.9,0 -2281.25,-1567.35 -2281.25,-3500.79 0,-1933.43 1021.35,-3500.79 2281.25,-3500.79 1259.9,0 2281.25,1567.35 2281.25,3500.79l-2281.25 0z"/>
+  <g transform="matrix(0.9259 0 0 1 -1804.76 3135.41)">
+   <text x="5333.33" y="4000"  class="fil2 fnt0">T</text>
+  </g>
+ </g>
+</svg>
